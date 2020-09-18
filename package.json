@@ -26,6 +26,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": " https://himaja830.github.io/Task/",
+  "devDependencies": {
+    "gh-pages": "2.0.1"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
